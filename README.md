@@ -1,2 +1,2 @@
-# mantra-ecom-practice
+# mantra-ecom
 Created with CodeSandbox
